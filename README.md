@@ -24,3 +24,5 @@ SPACESHIP_PROMPT_ORDER=(
 
 SPACESHIP_TIME_SHOW=true
 ```
+
+![prompt screenshot](./Screenshot from 2021-10-25 09-27-59.png)
