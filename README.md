@@ -25,4 +25,4 @@ SPACESHIP_PROMPT_ORDER=(
 SPACESHIP_TIME_SHOW=true
 ```
 
-![prompt screenshot](./prompt)
+![prompt screenshot](prompt.png?raw=true "Prompt")
